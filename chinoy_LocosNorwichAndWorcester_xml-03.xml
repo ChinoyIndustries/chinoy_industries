@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="chinoy_relaxNG_railroadArchive_prelim.rnc" type="application/relax-ng-compact-syntax"?>
+<document coll="01" sec="vf" docType="rrSecondary" format="looseleaf" pub="0"
+    pp="2" acqFrom="GreensburgAntiqueSale" dateAcq="2019-08-03" callNo="1V.05.NOR.XXXX.01"
+    compType="railroad" compName="NorwichAndWorcesterRailroad">
+    <!--crc: this is an item from the vertical file in my personal library of railroad documents and
+    books that I've collected. it's a typewritten history of the locomotives of a particular railroad,
+    which I found a month ago at a flea market, loose on a table, with absolutely no attribution on
+    it whatsoever. I typed it up into a word document the next day without any particular plan for
+    how to publish it, but it made for a really convenient thing to use for this homework assignment.
+    Most of the items I've digitized so far are just scanned images.-->
+    <!--crc: call number format currently in use sucks and is pending changes, pls ignore it-->
+    <title>Account of the locomotives of the Norwich and Worcester Railroad, 1839-1880</title>
+    <headnote>Typewritten, 2pp, origin and author unknown. Found at flea market sale, Greensburg,
+        Penna., Aug. 3 2019. Collection of C. R. Chinoy.</headnote>
+    <docText>
+            <p>The <company type="railroad" comp="Norwich&amp;WorcesterRailroad">Norwich and
+                    Worcester road</company> was completed in <date when="1839">1839.</date> There
+                were<br/> four engines on the road at the time, <loco id="01">Norwich</loco>, <loco
+                    id="02">Worcester</loco>, <loco id="03">Webster</loco> and <loco id="04"
+                    >Hancock.</loco><br/> These were built by <company type="builder"
+                    comp="RogersKetchum&amp;Grosvenor">Rogers, Ketchum and Grosvenor.</company></p>
+            <p>In <date when="1848-05">May 1848</date> the road purchased from <company
+                    type="builder" comp="Hinckley&amp;Drury">Hinckley &amp; Drury of
+                        <place>Boston</place></company> a<br/>
+                <loco id="05">locomotive which was called Rockwell</loco> in honor of <person
+                    who="RockwellCharlesW">Charles W. Rockwell</person> who did more<br/> to build
+                the road than any other individual. Afterwards there was two engines,<br/>
+                <loco id="06">Oliver Evans</loco> and the <loco id="07">Newton Perkins</loco>: there
+                is no record how they were obtained.<br/> The <loco id="07">Newton Perkins</loco>
+                <date when="1859">about the year 1859</date> went into the <place>Poquetannock
+                    Cove</place>; she<br/> never was replaced; her boilers were on the wharf at
+                    <place>Troland’s boiler shop on the<br/> west side</place> for several years. It
+                was floated up there on an old scow. The<br/>
+                <loco id="08">Suffolk</loco> was purchased from the <company type="railroad"
+                    comp="Boston&amp;ProvidenceRailroad">Boston &amp; Providence R. R.</company> to
+                run on the boat<br/> train; she was in service in <date when="1869">1869</date>; she
+                was an inside connection; also <loco id="13">the Uncas.</loco></p>
+            <p>There was <loco id="10">the first Boston which had two driver[s]</loco>, <person
+                    class="crew" who="RoathLouisP">Louis P. Roath</person> ran her [and]<br/> she
+                was used first as a passenger [engine] and then for switching. The <loco id="10"
+                    >William P. Green</loco><br/> and <loco id="11">Bay States</loco> built by
+                    <company type="builder" comp="McKay&amp;Aldur">McKay and Aldur</company>. The
+                    <loco id="12">Col. DeWitt</loco> built by <company type="builder"
+                    comp="RogersKetchum&amp;Grosvenor">Rogers Ketchum.</company><br/> The <loco
+                    id="13">Uncas</loco> built by <company type="builder" comp="Hinckley&amp;Drury"
+                    >Hinckley &amp; Drury</company>; also the <loco id="14">Nathan Hale</loco>,
+                    <loco id="15">Joel White</loco> and<br/>
+                <loco id="16">Oweneco</loco>. The <loco id="17">Mohegan</loco> and <loco id="18"
+                    >Pequot</loco> were built at <company type="builder" comp="Lawrence"
+                    >Lawrence</company>. The <loco id="19">Sagamore</loco>, <loco id="20"
+                    >Sachem</loco>,<br/>
+                <loco id="21">Quinebaug</loco>, <loco id="22">Shetucket</loco>, <loco id="23"
+                    >Thames</loco> and <loco id="24">Tiger</loco> by <company type="builder"
+                    comp="Hinckley&amp;Drury">Hinckley</company>. When the <place>railroad shops
+                    were<br/> built on North Main street</place> in <date from="1867" to="1868">1867 and
+                    1868</date>, they built in the new shops,<br/>
+                <loco id="25">Wauregan</loco>, <loco id="26">Attawaugan</loco>, <loco id="27"
+                    >Artisan</loco>, <loco id="28">Yantic</loco> and <loco id="29"
+                    >Mamohet<!--crc: note, this is not a misspelling
+        of Mahomet/Muhammad. Google says there was a local Indian chief by this name.--></loco>,
+                and <loco id="30">a new Bay State</loco>, and<br/> when the road was taken over by
+                the <company type="railroad" comp="NewYork&amp;NewEnglandRailroad">N. Y. &amp; N.
+                    E.</company>, there was several switche[r]s<br/> made for that road till the
+                works were transferred to <place>Boston</place>.</p>
+            <p>In <date when="1855">1855</date> the engineers were paid on the basis of so much per
+                month. The<br/> following were the names and salaries: <person class="crew"
+                    who="HydeJohn">John Hyde</person> and <person class="crew" who="WhiteJames"
+                    >James White</person> received $75<br/> per month; <person class="crew"
+                    who="HarrisonRichard">Richard Harrison</person>, <person class="crew"
+                    who="RoathEdwinA">Edwin A. Roath</person>, <person class="crew"
+                    who="BarrowsHenryE">Henry E. Barrows</person>, <person class="crew"
+                    who="WhaleyStephenS">Stephen S.<br/> Whaley</person>, <person class="crew"
+                    who="RoathLouisP">Louis P. Roath</person>, <person class="crew"
+                    who="McQuireJamesB">James B. McQuire</person> received $60 a month; <person
+                    class="crew" who="EvansJames">James Evans</person> and<br/>
+                <person class="crew" who="BradyJohn">John Brady</person> received $40 per month.
+                    <person class="employee" who="BassettWilliam">William Bassett as stationary
+                    engineer</person><br/> received $1.25 per day.</p>
+            <p>A few years before they were scrapped the <loco id="05">Rockwell</loco> and <loco
+                    id="12">Col. DeWitt</loco><br/> were outside the round house and the small boys
+                would play on them and plan<br/> to be railroad men when they grew up, also to watch
+                    <person class="employee" who="Pelham">the colored man, Pelham</person>,<br/>
+                saw wood with horse power for the engines.</p>
+            <p>The railroad added numbers with the names and as they were taken to<br/> the shop to
+                be overhauled and have modern smoke stacks, the names were dropped,<br/> but the men
+                on the road always thought of them by the old names, so the <loco id="09"
+                    >Boston<br/> became No. 1</loco>; <loco id="05">Rockwell, no. 2</loco>; <loco
+                    id="10">William P. Green, No. 3</loco>; <loco id="12">Col DeWitt, No. 4;</loco><pgbr/>
+            <loco id="13">Uncas, No. 5</loco>; <loco id="14">Nathan Hale, No. 6</loco>; <loco
+                    id="15">Joel White, No. 7</loco>; <loco id="16">Oweneco, No. 8</loco>; <loco
+                    id="17">Mohegan,<br/> No. 9</loco>; <loco id="18">Pequot, No. 10</loco>; <loco
+                    id="19">Sagamore, No. 11</loco>; <loco id="20">Sachem, No. 12</loco>; <loco
+                    id="21">Quinebaug, No. 13</loco>;<br/>
+                <loco id="22">Shetucket, No. 14</loco>; <loco id="23">Thames, No. 15</loco>; <loco
+                    id="24">Tiger, No. 16</loco>; <loco id="25">Wauregan, No. 17</loco>; <loco
+                    id="26">Attawaugan,<br/> No. 18</loco>; <loco id="27">Artisan, No. 19</loco>;
+                    <loco id="28">Yantic, No. 20</loco>; <loco id="30">Bay State, No. 21</loco>;
+                    <loco id="29">Mamohet, No. 22.<br/> The last was later changed to No.
+                5.</loco></p>
+            <p>Some of the old engineers who ran these engines in the 60’s and<br/> 70’s were:
+                    <person class="crew" who="McQuireJim">Jim McQuire</person>, <person
+                    class="crew" who="EvansJim">Jim Evans</person>, <person class="crew"
+                    who="FitzgeraldPat">Pat Fitzgerald</person>, <person class="crew"
+                    who="CooperPreston">Pres Cooper</person>, <person class="crew"
+                    who="YoungBilly">Billy Young</person>,<br/>
+                <person class="crew" who="WilliamsSid">Sid Williams</person>, <person class="crew"
+                    who="WalkerAl">Al Walker</person>, <person class="crew" who="PrestonDan">Dan
+                    Preston</person>, <person class="crew" who="SpaldingEd">Ed Spalding</person>,
+                    <person class="crew" who="RoathCharlie">Charlie Roath</person> and <person
+                    class="crew" who="WinchesterOtis WinchesterCharlie">the two<br/> Winchester
+                    brothers, Otis and Charlie.</person></p>
+            <p>About <date when="1880">1880</date>, the <loco id="21">Quinebaug</loco> and <loco
+                    id="27">Artisan</loco> were traded with the <company type="railroad"
+                    comp="Milford&amp;ProvidenceRailroad">Milford<br/> and Providence
+                    railroad</company> for <loco id="31">a Mason engine No. 13</loco>, which ran on
+                one of the<br/> passenger trains for a long time; <person class="crew"
+                    who="PrestonDan">Dan Preston engineer</person> and <person class="crew"
+                    who="HolmesBurt">Burt Holmes,<br/> fireman.</person></p>
+        
+    </docText>
+    <locoTable>
+        <!--this is to give all the locomotives referenced each a unique ID number. eventually they're
+        supposed to have ID numbers drawn from an enormous SQL table containing a complete roster
+        of every locomotive there's ever been, listed by serial number (I don't have the serials
+        for these) so that any locomotive can be cross-referenced between documents regardless of
+        the railroad, name or number it is referred to by, but that's still under construction.
+        This does not seem to be an appropriate thing to code in XML but I'm not sure how to
+        approach it.-->
+        <loco id="01" name="Norwich" builder="RogersKetchum&amp;Grosvenor" blt="1839"/>
+        <loco id="02" name="Worcester" builder="RogersKetchum&amp;Grosvenor" blt="1839"/>
+        <loco id="03" name="Webster" builder="RogersKetchum&amp;Grosvenor" blt="1839"/>
+        <loco id="04" name="Hancock" builder="RogersKetchum&amp;Grosvenor" blt="1839"/>
+        <loco id="05" name="Rockwell" no="2" builder="Hinkcley&amp;Drury" blt="1839-05"/>
+        <loco id="06" name="Oliver Evans"/>
+        <loco id="07" name="Newton Perkins" dateDisp="1859"/>
+        <loco id="08" name="Suffolk" dateRec="1869"/>
+        <loco id="09" name="Boston" no="1"/>
+        <loco id="10" name="William P. Green" no="3" builder="McKay&amp;Aldur"/>
+        <loco id="11" name="Bay State" seq="1" builder="McKay&amp;Aldur"/>
+        <!--decided not to finish inserting things here. you can see the table in the enclosed word document-->
+        <loco id="12" name="Col. DeWitt" no="4"/>
+        <loco id="13" name="Uncas" no="5"/>
+        <loco id="14" name="Nathan Hale" no="6"/>
+        <loco id="15" name="Joel White" no="7"/>
+        <loco id="16" name="Oweneco"/>
+        <loco id="17" name="Mohegan"/>
+        <loco id="18" name="Pequot"/>
+        <loco id="19" name="Sagamore"/>
+        <loco id="20" name="Sachem"/>
+        <loco id="21" name="Quinebaug"/>
+        <loco id="22" name="Shetucket"/>
+        <loco id="23" name="Thames"/>
+        <loco id="24" name="Tiger"/>
+        <loco id="25" name="Wauregan"/>
+        <loco id="26" name="Attawaugan"/>
+        <loco id="27" name="Artisan"/>
+        <loco id="28" name="Yantic"/>
+        <loco id="29" name="Mamohet"/>
+        <loco id="30" name="Bay State" seq="2"/>
+        <loco id="31" no="13" seq="2"/>
+    </locoTable>
+</document>
