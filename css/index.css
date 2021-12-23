@@ -14,25 +14,44 @@ body, tbody {
     font-family: Verdana;
     font-size: 13px;
     margin: 0;
+	background-color: #f0dda8;
 }
 thead {
     font-size: 15px;
     font-weight: bold;
 }
 #header {
+	background-color: #f0dda8;
+}
+#header-backdrop {
+	background-image: url('../images/backdrop-header.png');
+    background-size: cover;
+    background-color: #444;
+}
+#banner {
     color: #f0dda8;
     font-size: 35px;
     padding: 10px 0 0 0;
     text-align: center;
     font-family: Verdana;
     font-weight: bold;
-    text-shadow: 2px 2px 5px #000000;
-    background-image: url('../images/backdrop.png');
-    background-size: cover;
-    background-color: #444;
 }
 #headerImage {
     width: 45vw;  
+}
+#menu {
+    background-color: transparent;
+    color: #283b25;
+    font-size: 15px;
+    padding: 10px 0;
+    text-align: center;
+    font-family: Verdana;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px #000000;
+}
+#menu a[href] {
+    color:#f0dda8;
+    text-decoration: none;
 }
 #footer {
     background-color: #444;
@@ -46,19 +65,6 @@ thead {
 #footer a[href] {
     color:#f0dda8;
     text-decoration: none;    
-}
-#menu {
-    background-color: #444;
-    color: #283b25;
-    font-size: 15px;
-    padding: 10px 0;
-    text-align: center;
-    font-family: Verdana;
-    font-weight: bold;
-}
-#menu a[href] {
-    color:#f0dda8;
-    text-decoration: none;
 }
 td {
     padding: 3px 5px;
@@ -119,62 +125,37 @@ label {
     right: 100px;    
     z-index: 100;
 }
-#classtable, #carloadtable, #companytable, #formtable {
+
+
+
+#carsidetable {
     margin: 0 auto;
     max-width: 85%;
     border: 1px solid #555; 
     border-collapse: collapse;
 }
-#billdetailtable {
-    margin: 0 auto;
-    max-width: 75%;
-    border: 1px solid #555; 
-    border-collapse: collapse;
-}
-#carloadtable thead tr th, #companytable thead tr th, #classtable thead tr th, #formtable thead tr th, #billdetailtable thead tr th {
+#carsidetable thead tr th{
     background-color: #444;
     color: #f0dda8;
     padding: 0 10px;
     border: 1px solid #555; 
     border-collapse: collapse;
 }
-#carloadtable td, #companytable td, #classtable td, #formtable td, #billdetailtable td{
+#carsidetable td{
+    text-align: left;
     margin: 0 15px;  
     border: 1px solid #555; 
     border-collapse: collapse;
 }
-#carloadtable tbody tr td, #billdetailtable tbody tr td {
+#carsidetable tbody tr td{
     white-space: nowrap;
 }
-#carloadtable tbody tr td:nth-child(2), #billdetailtable tbody tr td:nth-child(2), #classtable tbody tr td:nth-child(2) {
-    text-align: right;
-    border-right: none;
-}
-#carloadtable tbody tr td:nth-child(3), #billdetailtable tbody tr td:nth-child(3), #classtable tbody tr td:nth-child(3) {
-    border-left: none;
-    font-weight: bold;
-}
-#carloadtable tbody tr td:last-child, #billdetailtable tbody tr td:last-child {
-    white-space: normal;
-}
-#billdetailtable tbody tr td:nth-child(7) {
-    white-space: normal;
-}
-#classtable tbody tr td {
-    white-space: normal;
-    text-align: left;
+#carsidetable img{
+	height: 50px;
     vertical-align: middle;
 }
-#classtable tbody tr td:nth-child(2) {
-    white-space: nowrap;
-}
-#classtable tbody tr td:last-child {
-    text-align: center;
-}
-#carcountdisplay {
-    margin: 0 auto;
-    border: none;
-}
+
+
 .gif {
     vertical-align: middle;
 }
