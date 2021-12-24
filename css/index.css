@@ -136,7 +136,7 @@ label {
 
 #carsidetable {
     margin: 0 auto;
-    max-width: 85%;
+    max-width: 95%;
     border: 1px solid #555; 
     border-collapse: collapse;
 }
@@ -149,6 +149,7 @@ label {
 }
 #carsidetable td{
     text-align: left;
+    font-size: 14px;
     margin: 0 15px;  
     border: 1px solid #555; 
     border-collapse: collapse;
@@ -156,11 +157,13 @@ label {
 #carsidetable tbody tr td{
     white-space: nowrap;
 }
+#carsidetable tbody tr td:last-child, #carsidetable tbody tr td:nth-child(4){
+    white-space: normal;
+}
 #carsidetable img{
 	height: 50px;
     vertical-align: middle;
 }
-
 
 .gif {
     vertical-align: middle;
