@@ -1,7 +1,15 @@
 <div id="header">
 <div id="header-backdrop">
 	<div id="banner">
-		<a href="https://newtfire.org/~crc114/"><img id="headerImage" src="https://newtfire.org/~crc114/images/cim-header.png" title="Chinoy Industries Mfg. Co." alt="Chinoy Industries Mfg. Co."/></a></div>
+		<a href="https://newtfire.org/~crc114/">
+			<img id="headerImage" src="https://newtfire.org/~crc114/images/cim-header.png" title="Chinoy Industries Mfg. Co." alt="Chinoy Industries Mfg. Co."/>
+		</a>
+		<div id="bannericon">
+			<a href="https://en.wikipedia.org/wiki/National_Recovery_Administration" target="_blank">
+				<img id="NRA" src="https://newtfire.org/~crc114/images/NRA_bannericon.png" title="NRA: We Do Our Part!" alt="NRA: We Do Our Part!"/>
+			</a>
+		</div>
+	</div>
 	<div id="menu">
 		<a href="https://newtfire.org/~crc114/">Home</a> | 
 		<a href="http://woodbury.newtfire.org/index.html">Woodbury Clay Co. Project</a> | 
@@ -9,6 +17,9 @@
 		<a href="https://newtfire.org/~crc114/404.html">404 Error</a> | 
 		<a href="https://newtfire.org/~crc114/about.html">About Me</a>
 	</div>
+	<!--<div id="deadpixel">
+		<img src="https://newtfire.org/~crc114/images/deadpixel.png" title="haha made you look" alt="haha made you look"/>
+	</div>-->
 </div>
 <hr/>
 </div>

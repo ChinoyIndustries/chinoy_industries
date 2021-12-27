@@ -20,6 +20,7 @@ body, tbody {
     font-family: Memphis;
     font-size: 16px;
     margin: 0;
+    color: #150600;
 	background-color: #f9eddd;
 }
 thead {
@@ -32,7 +33,7 @@ thead {
 #header-backdrop {
 	background-image: url('../images/backdrop-header.png');
     background-size: cover;
-    background-color: #444;
+    background-color: #283b25;
 }
 #banner {
     color: #f0dda8;
@@ -45,6 +46,20 @@ thead {
 #headerImage {
     width: 45vw;  
 }
+#bannericon {
+	position: absolute;
+	top: 15px;
+	left: 15px;
+}
+#bannericon img {
+	width: 50px;
+}
+#deadpixel {
+    position: fixed;
+    bottom: 353px;
+    right: 422px;
+}
+
 #menu {
     background-color: transparent;
     color: #283b25;
@@ -60,8 +75,11 @@ thead {
     text-decoration: none;
 }
 #footer {
-    background-color: #444;
-    color: #283b25;
+	background-color: #f0dda8;
+}
+#footer-backdrop {
+    background-color: #283b25;
+    color: #f0dda8;
     font-size: 13px;
     padding: 15px 0 15px 0;
     text-align: center;
@@ -72,6 +90,7 @@ thead {
     color:#f0dda8;
     text-decoration: none;    
 }
+
 td {
     padding: 3px 5px;
 }
@@ -87,12 +106,7 @@ td {
 .whatsnewdate {
     font-weight: bold   
 }
-.billimg {
-    margin-top: 15px;
-    border: 20px solid #000;
-    border-radius: 2px;
-    width: 1000px;
-}
+
 #content {
     margin: 15px;
     text-align: center;
@@ -112,46 +126,25 @@ label {
     width: 75%;
     height: auto;
 }
-#leftarrow {
-    height: 75px;
-    transform: rotate(180deg);
-}
-#rightarrow {
-    height: 75px;
-}
-#leftarrowcontainer {
-    position: absolute;
-    top: 200px;
-    left: 100px;
-    z-index: 100;
-}
-#rightarrowcontainer {
-    position: absolute;
-    top: 200px;
-    right: 100px;    
-    z-index: 100;
-}
-
-
 
 #carsidetable {
     margin: 0 auto;
     max-width: 95%;
-    border: 1px solid #555; 
+    border: 1px solid #150600; 
     border-collapse: collapse;
 }
 #carsidetable thead tr th{
-    background-color: #444;
+    background-color: #283b25;
     color: #f0dda8;
     padding: 0 10px;
-    border: 1px solid #555; 
+    border: 1px solid #150600; 
     border-collapse: collapse;
 }
 #carsidetable td{
     text-align: left;
     font-size: 14px;
     margin: 0 15px;  
-    border: 1px solid #555; 
+    border: 1px solid #150600; 
     border-collapse: collapse;
 }
 #carsidetable tbody tr td{
@@ -197,6 +190,9 @@ label {
     height: 230px;
     margin: 0 40px 0 0;
     border: 8px solid #444;
+}
+.button {
+	width: 30px;
 }
 #wherefrom {
     color: #ffffff;
