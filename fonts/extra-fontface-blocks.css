@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Memphis';
+    src: url('Memphis-Light.eot');
+    src: url('Memphis-Light.eot?#iefix') format('embedded-opentype'),
+        url('Memphis-Light.woff2') format('woff2'),
+        url('Memphis-Light.woff') format('woff'),
+        url('Memphis-Light.svg#Memphis-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Memphis Extra';
+    src: url('Memphis-ExtraBold.eot');
+    src: url('Memphis-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Memphis-ExtraBold.woff2') format('woff2'),
+        url('Memphis-ExtraBold.woff') format('woff'),
+        url('Memphis-ExtraBold.svg#Memphis-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Memphis';
+    src: url('Memphis-Bold.eot');
+    src: url('Memphis-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Memphis-Bold.woff2') format('woff2'),
+        url('Memphis-Bold.woff') format('woff'),
+        url('Memphis-Bold.svg#Memphis-Bold') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Memphis';
+    src: url('Memphis-Medium.eot');
+    src: url('Memphis-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Memphis-Medium.woff2') format('woff2'),
+        url('Memphis-Medium.woff') format('woff'),
+        url('Memphis-Medium.svg#Memphis-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

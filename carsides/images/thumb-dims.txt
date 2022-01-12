@@ -1,0 +1,6 @@
+TT: 73px high
+HO: 100px high
+OO: 114px high
+OO nonstandard: 13%
+S: 136px high
+O: 181px high

@@ -1,0 +1,9 @@
+scanning standards:
+- 600 DPI
+- Auto Tone ON
+- crop with margins
+- save master image as .TIF
+- resave as .PNG for fullsize web copy
+- crop in Irfanview, cut out transparencies in PSP
+- save as .PNG for fullsize thumb format copy
+- resize to 6.5%, save as .PNG for thumb

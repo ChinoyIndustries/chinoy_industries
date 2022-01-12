@@ -12,8 +12,15 @@
 }
 
 @font-face {
-    font-family: Memphis;
-    src:https://newtfire.org/~crc114/fonts/Memphis-Light.ttf
+    font-family: 'Memphis';
+    src: url('../fonts/Memphis-Medium.eot');
+    src: url('../fonts/Memphis-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Memphis-Medium.woff2') format('woff2'),
+        url('../fonts/Memphis-Medium.woff') format('woff'),
+        url('../fonts/Memphis-Medium.svg#Memphis-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
 }
 
 body, tbody {
@@ -154,8 +161,19 @@ label {
     white-space: normal;
 }
 #carsidetable img{
-	height: 50px;
     vertical-align: middle;
+}
+.hothumb {
+	height: 50px;
+}
+.oothumb {
+	height: 57px;
+}
+.ttthumb {
+	height: 37px;
+}
+.sthumb {
+	height: 68px;
 }
 
 .gif {
@@ -185,11 +203,23 @@ label {
     font-style: italic;
     text-decoration: none;
 }
-#abouttheauthor {
+#aboutmeimg {
+	float: left;
+}
+#aboutmepicture {
     float: left;
     height: 230px;
     margin: 0 40px 0 0;
     border: 8px solid #444;
+}
+#buttoncontainer {
+	margin-top: 20px;
+}
+#aboutmediv {
+	float: left;
+}
+#makethiswork {
+	clear: both;
 }
 .button {
 	width: 30px;
